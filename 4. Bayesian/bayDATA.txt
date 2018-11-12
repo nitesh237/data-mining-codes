@@ -1,0 +1,4 @@
+T,T,F,T,Some,$$$,T,T,Italian,> 60
+
+
+<=30,Medium,Yes,Fair

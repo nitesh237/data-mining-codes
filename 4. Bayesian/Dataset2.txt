@@ -1,0 +1,14 @@
+X1,<=30,High,No,Fair,No
+X2,<=30,High,No,Excellent,No
+X3,31...40,High,No,Fair,Yes
+X4,>40,Medium,No,Fair,Yes
+X5,>40,Low,Yes,Fair,Yes
+X6,>40,Low,Yes,Excellent,No
+X7,31...40,Low,Yes,Excellent,Yes
+X8,<=30,Medium,No,Fair,No
+X9,<=30,Low,Yes,Fair,Yes
+X10,>40,Medium,Yes,Fair,Yes
+X11,<=30,Medium,Yes,Excellent,Yes
+X12,31...40,Medium,No,Excellent,Yes
+X13,31...40,High,Yes,Fair,Yes
+X14,>40,Medium,No,Excellent,No
